@@ -14,3 +14,4 @@ replay.py
  	--gamefile *file*
 	--noverify
 	--verbose
+	--render
